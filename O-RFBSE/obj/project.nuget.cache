@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "chjRtUiBf8KD48wV8t0yPHRR2iRCxtb1Z+pmbCe+ZchRpFNqXSwKfaQ0nArCG7o0IXoYSI7LBIo91LDr06wUsw==",
+  "success": true,
+  "projectFilePath": "R:\\我的雲端硬碟\\畢業論文\\畢業\\O-RFBSE\\O-RFBSE\\O-RFBSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Proladon\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
+    "C:\\Users\\Proladon\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
